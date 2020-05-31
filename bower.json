@@ -1,5 +1,5 @@
 {
-  "name": "true",
+  "name": "truefaker",
   "main": "./build/build/faker.js",
   "homepage": "https://github.com/Marak/faker.js",
   "authors": [
